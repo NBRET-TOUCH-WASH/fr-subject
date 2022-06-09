@@ -65,17 +65,15 @@ Il étudie à Alger et obtient diplôme d’études supérieures en Lettres, sec
 
 #### Carrière littéraire et engagement politique
 
-&nbsp;
+<!--&nbsp;-->
 
+En 1935, il adhère au [**P**arti **C**ommuniste **A**lgérien](https://fr.wikipedia.org/wiki/Parti_communiste_alg%C3%A9rien), dont il sera expulsé en 1937 de par ses protestations à l'encontre de sa stratégie politique.
+
+&nbsp;
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Algerian_Communist_Party.svg" alt="PCA" width="150"/>
 
 Logotype officiel du PCA.
-
-&nbsp;
-
-En 1935, il adhère au [**P**arti **C**ommuniste **A**lgérien](https://fr.wikipedia.org/wiki/Parti_communiste_alg%C3%A9rien), dont il sera expulsé en 1937 de par ses protestations à l'encontre de sa stratégie politique.
-
 
 &nbsp;
 
@@ -129,6 +127,7 @@ Albert Camus [reçoit le prix Nobel de littérature](https://www.nobelprize.org/
 - [La Peste - Wikipedia [FR]](https://fr.wikipedia.org/wiki/La_Peste)
     - > Le développement de certaines sections de cet article peuvent contenir un travail inédit ou des déclarations non vérifiées (avril 2022). 
     - > Cet article n’est pas rédigé dans un style encyclopédique (avril 2022).
+- [L'Appel pour une Trêve Civile - Wikipedia [FR]](https://fr.wikipedia.org/wiki/L'Appel_pour_une_Trêve_Civile)
 
 &nbsp;
 
@@ -139,3 +138,19 @@ Albert Camus [reçoit le prix Nobel de littérature](https://www.nobelprize.org/
 
 - [Combat - Wikipedia [FR]](https://fr.wikipedia.org/wiki/Combat_(journal))
 - [Le Soir républicain - Wikipedia [FR]](https://fr.wikipedia.org/wiki/Le_Soir_républicain)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+### Made using...
+
+- [Mermaid JS (Gantt diagram)](https://mermaid-js.github.io/mermaid/#/gantt)
+
+&nbsp;
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
