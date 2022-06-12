@@ -51,29 +51,29 @@ gantt
 
 &nbsp;
 
-#### Naissance
+#### Naissance ; 1913
 
-Albert Camus naît le 7 Novembre 1913 d'une famille pauvre en Algérie française.
+Albert Camus naît le **7 Novembre 1913** d'une famille pauvre en Algérie française.
 
 &nbsp;
 
 #### Formation
 
-Il étudie à Alger et obtient diplôme d’études supérieures en Lettres, section philosophie en 1936.
+Il étudie à Alger et obtient diplôme d’études supérieures en Lettres, section philosophie en **1936**.
 
 &nbsp;
 
-#### Carrière littéraire et engagement politique
+#### Carrière littéraire et engagement politique ; 1935
 
 <!--&nbsp;-->
 
-En 1935, il adhère au [**P**arti **C**ommuniste **A**lgérien](https://fr.wikipedia.org/wiki/Parti_communiste_alg%C3%A9rien), dont il sera expulsé en 1937 de par ses protestations à l'encontre de sa stratégie politique.
+En **1935**, il adhère au [**P**arti **C**ommuniste **A**lgérien](https://fr.wikipedia.org/wiki/Parti_communiste_alg%C3%A9rien), dont il sera expulsé en 1937 de par ses protestations à l'encontre de sa stratégie politique.
 
-&nbsp;
+<!--&nbsp;-->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Algerian_Communist_Party.svg" alt="PCA" width="150"/>
 
-Logotype officiel du PCA.
+*Logotype officiel du PCA.*
 
 &nbsp;
 
@@ -83,21 +83,21 @@ En 1937 sort la première œuvre signée du nom de Camus: *L'Envers et l'Endroit
 
 &nbsp;
 
-#### Direction de "[Combat](https://fr.wikipedia.org/wiki/Combat_(journal))"
+#### Direction de "[Combat](https://fr.wikipedia.org/wiki/Combat_(journal))" ; 1943
 
-Albert Camus prend la direction de Combat, un journal résistant, en 1943.
+Albert Camus prend la direction de Combat, un journal résistant, en **1943**.
 
 &nbsp;
 
 #### "[La Peste](https://fr.wikipedia.org/wiki/La_Peste)", 1947
 
-Publié en 1947, *La Peste* est un roman prenant scène à [Oran](https://fr.wikipedia.org/wiki/Oran) en Algérie française durant une épidémie de peste, la séparant du monde extérieur.
+Publié en **1947**, *La Peste* est un roman prenant scène à [Oran](https://fr.wikipedia.org/wiki/Oran) en Algérie française durant une épidémie de peste, la séparant du monde extérieur.
 
 &nbsp;
 
 #### Prix Nobel de littérature, 1957
 
-Albert Camus [reçoit le prix Nobel de littérature](https://www.nobelprize.org/prizes/literature/1957/camus/25232-albert-camus-banquet-speech-1957) le 16 octobre 1957.
+Albert Camus [reçoit le prix Nobel de littérature](https://www.nobelprize.org/prizes/literature/1957/camus/25232-albert-camus-banquet-speech-1957) le **16 octobre 1957**.
 
 &nbsp;
 
@@ -106,6 +106,37 @@ Albert Camus [reçoit le prix Nobel de littérature](https://www.nobelprize.org/
 &nbsp;
 
 ### "[L'Étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)", 1942
+
+*"L'Étranger"*, premier roman d'Albert Camus, se caractérise par son écriture simple et fluide, ses thèmes, mais aussi par sa première place dans son [Cycle de l'Absurde](https://fr.wikipedia.org/wiki/Cycle_de_l%27absurde).
+
+&nbsp;
+
+#### Style
+
+Le style du roman se caractérise premièrement par sa narration.<br>
+**Interne** et non-omnisicent, le narrateur est incarné en la personne de *Meursault*, dont le nom ne sera jamais complété. Son absence d'identité fournit déjà un élément de concrétisation du titre de l'œuvre, semblant dépourvu au milieu de ces gens dont la personalité est si apparente au cours du roman.
+
+Au-delà du narrateur en lui-même, so expression est un des aspects les plus remarquables de l'ouvrage: elle suit et reproduit le **fil des pensées** de Meursault. Parfois quelque peu décousue, passant souvent d'un élément à un autre via des transitions parfois abruptes, elle essaie de reflèter du mieux possible comment le protagoniste **perçoit et interprète** son environnement.
+
+&nbsp;
+
+#### Thèmes
+
+**WIP**
+
+&nbsp;
+
+#### Citations
+
+[Incipit](https://fr.wikipedia.org/wiki/Incipit) du roman:
+
+> Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. J’ai reçu un télégramme de l’asile : "Mère décédée. Enterrement demain. Sentiments distingués." Cela ne veut rien dire. C’était peut-être hier.
+
+&nbsp;
+
+[Explicit](https://fr.wikipedia.org/wiki/Explicit_(narratologie)) du roman:
+
+> Pour que tout soit consommé, pour que je me sente moins seul, il me restait à souhaiter qu'il y ait beaucoup de spectateurs à mon exécution et qu'ils maccueillent avec des cris de haine.
 
 &nbsp;
 
